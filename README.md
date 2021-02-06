@@ -1,16 +1,16 @@
-# aber
+# Encryption App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- in that project i created 5 Encryption methods "monoalphabetic", "caesar", "vigenere", "playFair" and "railFence"
 
-A few resources to get you started if this is your first Flutter project:
+## Picture of app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  <img src="assets/gif.gif" width="250" alt="Movie">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## use App
+- download code and run it
+- write anything in TextFile and it will encrypt automatic and will see the text after encryption
